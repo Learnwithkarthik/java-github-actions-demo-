@@ -1,4 +1,4 @@
-name: Java CI + Docker + GCR
+name: Java CI + Docker + GCR (testing)
 
 on:
   push:
